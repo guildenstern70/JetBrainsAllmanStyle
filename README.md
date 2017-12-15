@@ -6,10 +6,10 @@ Configurations to allow Allman code style in JetBrains IDEs
 
 From any Jetbrains IDE select 
 
-  Preferences.../Code Style
+    Preferences.../Code Style
   
 then, next to Schema
 
-  Import from...
+    Import from...
   
   
