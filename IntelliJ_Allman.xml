@@ -8,9 +8,6 @@
     <option name="INDENT_BRACED_FUNCTION_ARGS" value="false" />
     <option name="NEWLINE_AFTER_ANNOTATIONS" value="true" />
   </ScalaCodeStyleSettings>
-  <XML>
-    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
-  </XML>
   <codeStyleSettings language="JAVA">
     <option name="BRACE_STYLE" value="2" />
     <option name="CLASS_BRACE_STYLE" value="2" />
